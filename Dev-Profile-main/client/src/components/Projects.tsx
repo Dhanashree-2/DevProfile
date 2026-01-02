@@ -9,7 +9,7 @@ const projects = [
     title: "Personal Portfolio Website",
     description: "A professional, responsive portfolio website built to showcase skills, experience, and projects. Features smooth animations, a clean modern UI, and a contact form.",
     techStack: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    githubLink: "https://github.com/",
+    githubLink: "https://github.com/Dhanashree-2/Portofolio",
     demoLink: "#",
     featured: true
   },
@@ -17,7 +17,7 @@ const projects = [
     title: "Job Application Tracker",
     description: "A comprehensive tool to track job applications, interview statuses, and follow-ups. Helps organize the job search process with a user-friendly dashboard.",
     techStack: ["React", "Node.js", "Express", "PostgreSQL"],
-    githubLink: "https://github.com/",
+    githubLink: "https://github.com/Dhanashree-2/job-application-tracker",
     demoLink: "#",
     featured: true
   }
